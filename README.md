@@ -1,2 +1,2 @@
 # JsonToNetspace
-Auto convert Json cookie to Netspace cookie
+Auto convert Json cookie to Netspace cookie.
